@@ -307,13 +307,14 @@ restricted_words = [
     "Без рисков, без вложений – только реальный доход!",
     "Не упусти свой шанс! Начни зарабатывать прямо сейчас!",
     "Все вопросы сюда: @avitologvitaliy",
-    "@avitologvitaliy"
+    "@avitologvitaliy", "Цeна","АВИТO", " аккayнт", "Авито", "БЕЗOПАСНО"
 ]
 
 # ❌ Telegram username bloklash (katta-kichik harf farq qilmaydi)
 restricted_usernames = [
     r"@mosizlyakadv",
-    r"@avitologvitaliy"
+    r"@avitologvitaliy",
+    r"@Arenda_av"
 ]
 
 # ❌ Raqamlar bilan yozilgan reklama so‘zlarini bloklash uchun regex
